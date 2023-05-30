@@ -37,4 +37,4 @@ And finally these are some emacs modes I maintain (and mostly use):
 - [[https://github.com/TLINDEN/autoscratch][autoscratch]]: Automatically switch major mode from *scratch*.
 - [[https://github.com/TLINDEN/viking-mode][viking-mode]]: Kill first, ask later - an emacs mode for killing things quickly.
 
-[[https://github-readme-stats.vercel.app/api?username=tlinden&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark]]
+#+html: <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tlinden&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark"/></p>
