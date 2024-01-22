@@ -8,6 +8,8 @@ to program in a bunch of other  languages like C, python or ruby. I do
 almost all my work with [[https://www.gnu.org/software/emacs/][emacs]], for which I wrote a couple of emacs modes.
 
 The projects I am currently working on are:
+- [[https://github.com/TLINDEN/kleingebaeck/][kleingebäck]]: a tool to backup kleinanzeigen.de ads.
+- [[https://github.com/TLINDEN/yadu/][yadu]]: a go log/slog handler using a mix of log lines and yaml.
 - [[https://github.com/TLINDEN/rpnc/][rpnc]]: a commandline and interactive programmable reverse polish notation calculator
 - [[https://github.com/tlinden/tablizer][tablizer]]: a console table manipulation tool
 - [[https://github.com/tlinden/ephemerup][ephemerup]]: a ephemeral file upload system with rest API and commandline cli
