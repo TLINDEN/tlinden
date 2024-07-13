@@ -8,6 +8,8 @@ to program in a bunch of other  languages like C, python or ruby. I do
 almost all my work with [[https://www.gnu.org/software/emacs/][emacs]], for which I wrote a couple of emacs modes.
 
 The projects I am currently working on are:
+- [[https://github.com/TLINDEN/golsky][Golsky]]: a golang implementation of the game of life, supports RLE patterns, saving and loading,
+  drawing, zooming and is controllable using key bindings.
 - Openquell: a 2D puzzle game using ebitengine, arche and LDTK. Not (yet) opensource. [[https://bad-kraut.itch.io/openquell][Play it online]]
 - [[https://github.com/TLINDEN/kageviewer][kageviewer]]: a live viewer for shaders written in Kage, similar to glslviewer
 - [[https://github.com/TLINDEN/gfn][gfn]]: a cli tool to generate fantasy names for games and stories
