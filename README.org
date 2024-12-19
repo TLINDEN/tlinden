@@ -13,7 +13,7 @@ The projects I am currently working on are:
 - Openquell: a 2D puzzle game using ebitengine, arche and LDTK. Not (yet) opensource. [[https://bad-kraut.itch.io/openquell][Play it online]]
 - [[https://github.com/TLINDEN/kageviewer][kageviewer]]: a live viewer for shaders written in Kage, similar to glslviewer
 - [[https://github.com/TLINDEN/gfn][gfn]]: a cli tool to generate fantasy names for games and stories
-- [anydb](https://github.com/TLINDEN/anydb): a personal key value store with more capabilities than skate.
+- [[https://github.com/TLINDEN/anydb][anydb]]: a personal key value store with more capabilities than skate.
 - [[https://github.com/TLINDEN/kleingebaeck/][kleingebäck]]: a tool to backup kleinanzeigen.de ads.
 - [[https://github.com/TLINDEN/yadu/][yadu]]: a go log/slog handler using a mix of log lines and yaml.
 - [[https://github.com/TLINDEN/rpnc/][rpnc]]: a commandline and interactive programmable reverse polish notation calculator
