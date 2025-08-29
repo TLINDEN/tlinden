@@ -9,7 +9,7 @@ almost all my work with [[https://www.gnu.org/software/emacs/][emacs]], for whic
 
 The projects I am currently working on are:
 - [[https://github.com/TLINDEN/swayipc/][swayipc]]: go bindings to control sway and swayfx
-- [[https://github.com/TLINDEN/swayipc/][swaycycle]]: alt-tab window cycler for sway/swayfx, uses the swayipc module.
+- [[https://github.com/TLINDEN/swaycycle/][swaycycle]]: alt-tab window cycler for sway/swayfx, uses the swayipc module.
 - [[https://github.com/TLINDEN/sway-descratch/][sway-descratch]]: get back windows from scratchpad.
 - [[https://github.com/TLINDEN/kleingebaeck/][kleingebäck]]: a tool to backup kleinanzeigen.de ads.
 - [[https://github.com/TLINDEN/anydb][anydb]]: a personal key value store with more capabilities than skate.
