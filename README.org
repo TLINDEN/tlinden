@@ -8,6 +8,7 @@ to program in a bunch of other  languages like C, python or ruby. I do
 almost all my work with [[https://www.gnu.org/software/emacs/][emacs]], for which I wrote a couple of emacs modes.
 
 The projects I am currently working on are:
+- [[https://github.com/TLINDEN/epuppy/][epuppy]]: terminal epub viewer
 - [[https://github.com/TLINDEN/ts/][ts]]: generic cli timestamp parser and calculator tool
 - [[https://github.com/TLINDEN/swayipc/][swayipc]]: go bindings to control sway and swayfx
 - [[https://github.com/TLINDEN/swaycycle/][swaycycle]]: alt-tab window cycler for sway/swayfx, uses the swayipc module.
