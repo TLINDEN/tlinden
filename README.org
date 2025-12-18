@@ -7,50 +7,50 @@ My current most liked language is go, previously this was perl. I used
 to program in a bunch of other  languages like C, python or ruby. I do
 almost all my work with [[https://www.gnu.org/software/emacs/][emacs]], for which I wrote a couple of emacs modes.
 
+I am not using github for my own projects anymore and moved all my repositories to [[https://codeberg.org/scip/][Codeberg]].
+
 The projects I am currently working on are:
-- [[https://github.com/TLINDEN/epuppy/][epuppy]]: terminal epub viewer
-- [[https://github.com/TLINDEN/ts/][ts]]: generic cli timestamp parser and calculator tool
-- [[https://github.com/TLINDEN/swayipc/][swayipc]]: go bindings to control sway and swayfx
-- [[https://github.com/TLINDEN/swaycycle/][swaycycle]]: alt-tab window cycler for sway/swayfx, uses the swayipc module.
-- [[https://github.com/TLINDEN/sway-descratch/][sway-descratch]]: get back windows from scratchpad.
-- [[https://github.com/TLINDEN/kleingebaeck/][kleingebäck]]: a tool to backup kleinanzeigen.de ads.
-- [[https://github.com/TLINDEN/anydb][anydb]]: a personal key value store with more capabilities than skate.
-- [[https://github.com/TLINDEN/kageviewer][kageviewer]]: a live viewer for shaders written in Kage, similar to glslviewer
-- [[https://github.com/TLINDEN/gfn][gfn]]: a cli tool to generate fantasy names for games and stories
-- [[https://github.com/TLINDEN/gowipe][gowipe]]: a cli tool to securely delete files (not suited for SSD discs)
-- [[https://github.com/TLINDEN/rpnc/][rpnc]]: a commandline and interactive programmable reverse polish notation calculator
-- [[https://github.com/TLINDEN/yadu/][yadu]]: a go log/slog handler using a mix of log lines and yaml.
-- [[https://github.com/TLINDEN/valpass/][valpass]]: a small go module to verify passwords
-- [[https://github.com/tlinden/tablizer][tablizer]]: a console table manipulation tool
-- [[https://github.com/tlinden/ephemerup][ephemerup]]: a ephemeral file upload system with rest API and commandline cli
-- [[https://github.com/TLINDEN/golsky][Golsky]]: a golang implementation of the game of life, supports RLE patterns, saving and loading,
+- [[https://codeberg.org/scip/epuppy/][epuppy]]: terminal epub viewer
+- [[https://codeberg.org/scip/ts/][ts]]: generic cli timestamp parser and calculator tool
+- [[https://codeberg.org/scip/swayipc/][swayipc]]: go bindings to control sway and swayfx
+- [[https://codeberg.org/scip/swaycycle/][swaycycle]]: alt-tab window cycler for sway/swayfx, uses the swayipc module.
+- [[https://codeberg.org/scip/sway-descratch/][sway-descratch]]: get back windows from scratchpad.
+- [[https://codeberg.org/scip/kleingebaeck/][kleingebäck]]: a tool to backup kleinanzeigen.de ads.
+- [[https://codeberg.org/scip/anydb][anydb]]: a personal key value store with more capabilities than skate.
+- [[https://codeberg.org/scip/kageviewer][kageviewer]]: a live viewer for shaders written in Kage, similar to glslviewer
+- [[https://codeberg.org/scip/gfn][gfn]]: a cli tool to generate fantasy names for games and stories
+- [[https://codeberg.org/scip/gowipe][gowipe]]: a cli tool to securely delete files (not suited for SSD discs)
+- [[https://codeberg.org/scip/rpnc/][rpnc]]: a commandline and interactive programmable reverse polish notation calculator
+- [[https://codeberg.org/scip/yadu/][yadu]]: a go log/slog handler using a mix of log lines and yaml.
+- [[https://codeberg.org/scip/valpass/][valpass]]: a small go module to verify passwords
+- [[https://codeberg.org/scip/tablizer][tablizer]]: a console table manipulation tool
+- [[https://codeberg.org/scip/ephemerup][ephemerup]]: a ephemeral file upload system with rest API and commandline cli
+- [[https://codeberg.org/scip/golsky][Golsky]]: a golang implementation of the game of life, supports RLE patterns, saving and loading,
   drawing, zooming and is controllable using key bindings.
 - Openquell: a 2D puzzle game using ebitengine, arche and LDTK. Not (yet) opensource. [[https://bad-kraut.itch.io/openquell][Play it online]]
 
 The most fun projects I did in the past:
-- [[https://github.com/TLINDEN/pcp][pretty curved  privacy]]: a tool to  encrypt and decrypt data  at rest
+- [[https://codeberg.org/scip/pcp][pretty curved  privacy]]: a tool to  encrypt and decrypt data  at rest
   using eliptic curves for the commandline.
-- [[https://github.com/TLINDEN/diceware][diceware]]: a diceware password generator, which I use regularly.
-- [[https://github.com/TLINDEN/udpxd][udpxd]]: a udp proxy supporting v4/v6 conversion.
-- [[https://github.com/TLINDEN/twenty4][twenty4]]: a self-made cryptographic algorithm I created just for fun.
+- [[https://codeberg.org/scip/diceware][diceware]]: a diceware password generator, which I use regularly.
+- [[https://codeberg.org/scip/udpxd][udpxd]]: a udp proxy supporting v4/v6 conversion.
+- [[https://codeberg.org/scip/twenty4][twenty4]]: a self-made cryptographic algorithm I created just for fun.
 
 There are a couple of perl modules I am still maintaining:
-- [[https://github.com/TLINDEN/Config-General][Config::General]]: a widely used configuration module.
-- [[https://github.com/TLINDEN/Data-Validate-Struct][Data::Validate::Struct]]: can be used to validate recursive data structures.
-- [[https://github.com/TLINDEN/Crypt--PWSafe3][Crypt::PWSafe3]]: a module to read and write passwordsafe.net files.
-- [[https://github.com/TLINDEN/leo][leo]]: a commandline interface to https://dict.leo.org.
+- [[https://codeberg.org/scip/Config-General][Config::General]]: a widely used configuration module.
+- [[https://codeberg.org/scip/Data-Validate-Struct][Data::Validate::Struct]]: can be used to validate recursive data structures.
+- [[https://codeberg.org/scip/Crypt--PWSafe3][Crypt::PWSafe3]]: a module to read and write passwordsafe.net files.
+- [[https://codeberg.org/scip/leo][leo]]: a commandline interface to https://dict.leo.org.
 
 I  also maintain  (and use  daily)  the FreeBSD  jail management  tool
-[[https://github.com/TLINDEN/jaildk][jaildk]]. Another fun shell script is  [[https://github.com/TLINDEN/goupdater][goupdater]], which I use to install
-and  update  all those  go  binaries  which  are avaliable  as  direct
-downloads.
+[[https://codeberg.org/scip/jaildk][jaildk]].
 
 And finally these are some emacs modes I maintain (and mostly use):
-- [[https://github.com/TLINDEN/novel-mode][novel-mode]]: a simple mode to use emacs as a comfortable screen reader.
-- [[https://github.com/TLINDEN/mark-copy-yank-things-mode][mark-copy-yank-things-mode]]: Mark, Copy and Yank Things Emacs Minor Mode.
-- [[https://github.com/TLINDEN/autoscratch][autoscratch]]: Automatically switch major mode from *scratch*.
-- [[https://github.com/TLINDEN/viking-mode][viking-mode]]: Kill first, ask later - an emacs mode for killing things quickly.
+- [[https://codeberg.org/scip/novel-mode][novel-mode]]: a simple mode to use emacs as a comfortable screen reader.
+- [[https://codeberg.org/scip/mark-copy-yank-things-mode][mark-copy-yank-things-mode]]: Mark, Copy and Yank Things Emacs Minor Mode.
+- [[https://codeberg.org/scip/autoscratch][autoscratch]]: Automatically switch major mode from *scratch*.
+- [[https://codeberg.org/scip/viking-mode][viking-mode]]: Kill first, ask later - an emacs mode for killing things quickly.
 
-My current emacs configuration can be found here: [[https://github.com/tlinden/dot-emacs][dot-emacs]].
+My current emacs configuration can be found here: [[https://codeberg.org/scip/dot-emacs][dot-emacs]].
 
 #+html: <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tlinden&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark"/></p>
